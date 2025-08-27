@@ -16,5 +16,5 @@ Este projeto é um **cartão de apresentação digital** criado na **UC de UI/UX
 Praticar conceitos de **UI/UX**, criando um cartão visualmente agradável e fácil de usar, destacando informações importantes de forma clara.
 
 ## 👀 Como Visualizar
-1. Clone este repositório ou baixe os arquivos. 📥 
+1. Clone este repositório ou baixe os arquivos. 📥
 2. Abra o arquivo `index.html` em qualquer navegador. 
